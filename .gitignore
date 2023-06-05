@@ -1,0 +1,4 @@
+# 노드 모듈 필요 없음
+node_modules
+# dist 배포용 git으로 관리할 필요 없다.
+dist
